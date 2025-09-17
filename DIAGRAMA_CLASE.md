@@ -2,7 +2,7 @@
 
 A continuación se presenta el diagrama de clases del sistema:
 
-![Diagrama de Clases](diagrama_clases.png)
+![Diagrama de Clases]
 
 **Clases principales:**
 - Sistema
