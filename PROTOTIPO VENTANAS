@@ -1,43 +1,35 @@
 # 📌 MediCita - Sistema de Agendamiento de Citas Médicas
 
+Este proyecto permite a los pacientes registrarse, iniciar sesión y agendar citas médicas de manera sencilla.
+
+---
+
 ## 🖼️ Capturas de Pantalla
 
 ### 1. Inicio / Dashboard
-![Inicio](./imagenes/inicio.png)  
-Pantalla principal de la aplicación, desde donde el usuario puede acceder al inicio de sesión o crear una nueva cuenta.
-
----
+Muestra próximas citas, historial y opción para agendar nuevas.
+![Inicio](./inicio.png)
 
 ### 2. Inicio de Sesión
-![Inicio de Sesión](./imagenes/inicio%20de%20sesion.png)  
-Formulario donde el paciente ingresa su número de cédula y contraseña para acceder al sistema.
-
----
+Acceso mediante número de cédula y contraseña.
+![Inicio de Sesión](./inicio%20de%20sesion.png)
 
 ### 3. Registro de Usuario
-![Registro](./imagenes/crear%20cuenta.png)  
-Formulario de creación de cuenta que solicita los datos personales del paciente como nombre, identificación y contacto.
-
----
+Formulario para crear una cuenta en la plataforma.
+![Registro](./crear%20cuenta.png)
 
 ### 4. Seleccionar Especialidad
-![Especialidad](./imagenes/agendar%20cita.png)  
-Interfaz para elegir la especialidad médica o servicio al que desea acceder el paciente.
-
----
+El usuario elige la especialidad médica deseada.
+![Especialidad](./agendar%20cita.png)
 
 ### 5. Seleccionar Doctor
-![Doctor](./imagenes/agendar%20cita%20-%20escoger%20doctor.png)  
-Pantalla que muestra la lista de doctores disponibles según la especialidad seleccionada.
-
----
+Muestra los doctores disponibles para la especialidad seleccionada.
+![Doctor](./agendar%20cita%20-%20escoger%20doctor.png)
 
 ### 6. Seleccionar Fecha y Hora
-![Fecha y Hora](./imagenes/agendar%20cita%20-%20escoger%20fecha.png)  
-Calendario para escoger la fecha y hora disponibles en la agenda del doctor seleccionado.
-
----
+Permite escoger la fecha y hora de la cita.
+![Fecha y Hora](./agendar%20cita%20-%20escoger%20fecha.png)
 
 ### 7. Confirmación de Cita
-![Confirmación](./imagenes/agendar%20cita%20-%20confirmar%20info.png)  
-Pantalla final que muestra los detalles de la cita (doctor, especialidad, fecha y hora) antes de confirmar.
+Pantalla final para confirmar los detalles de la cita.
+![Confirmación](./agendar%20cita%20-%20confirmar%20info.png)
