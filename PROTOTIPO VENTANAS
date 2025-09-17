@@ -1,0 +1,34 @@
+# 📌 MediCita - Sistema de Agendamiento de Citas Médicas
+
+Este proyecto permite a los pacientes registrarse, iniciar sesión y agendar citas médicas de manera sencilla.
+
+---ç
+## 🖼️ Capturas de Pantalla
+
+### 1. Inicio / Dashboard
+Muestra próximas citas, historial y opción para agendar nuevas.
+![Inicio](./inicio.png)
+
+### 2. Inicio de Sesión
+Acceso mediante número de cédula y contraseña.
+![Inicio de Sesión](./inicio%20de%20sesion.png)
+
+### 3. Registro de Usuario
+Formulario para crear una cuenta en la plataforma.
+![Registro](./crear%20cuenta.png)
+
+### 4. Seleccionar Especialidad
+El usuario elige la especialidad médica deseada.
+![Especialidad](./agendar%20cita.png)
+
+### 5. Seleccionar Doctor
+Muestra los doctores disponibles para la especialidad seleccionada.
+![Doctor](./agendar%20cita%20-%20escoger%20doctor.png)
+
+### 6. Seleccionar Fecha y Hora
+Permite escoger la fecha y hora de la cita.
+![Fecha y Hora](./agendar%20cita%20-%20escoger%20fecha.png)
+
+### 7. Confirmación de Cita
+Pantalla final para confirmar los detalles de la cita.
+![Confirmación](./agendar%20cita%20-%20confirmar%20info.png)
