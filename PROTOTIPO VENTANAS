@@ -3,41 +3,42 @@
 ## 🖼️ Capturas de Pantalla
 
 ### 1. Inicio / Dashboard
-<img width="300" alt="Inicio" src="./PROTOTIPO_VENTANAS/inicio.png" />  
+<img width="300" alt="Inicio" src="./PROTOTIPO%20VENTANAS/inicio.png" />
 Pantalla principal de la aplicación, desde donde el usuario puede acceder al inicio de sesión o crear una nueva cuenta.
 
 ---
 
 ### 2. Inicio de Sesión
-<img width="300" alt="Inicio de Sesión" src="./PROTOTIPO_VENTANAS/inicio%20de%20sesion.png" />  
+<img width="300" alt="Inicio de Sesión" src="./PROTOTIPO_20VENTANAS/inicio%20de%20sesion.png" />
 Formulario donde el paciente ingresa su número de cédula y contraseña para acceder al sistema.
 
 ---
 
 ### 3. Registro de Usuario
-<img width="300" alt="Registro de Usuario" src="./PROTOTIPO_VENTANAS/crear%20cuenta.png" />  
+<img width="300" alt="Registro de Usuario" src="./PROTOTIPO_20VENTANAS/crear%20cuenta.png" />
 Formulario de creación de cuenta que solicita los datos personales del paciente como nombre, identificación y contacto.
 
 ---
 
 ### 4. Seleccionar Especialidad
-<img width="300" alt="Seleccionar Especialidad" src="./PROTOTIPO_VENTANAS/agendar%20cita.png" />  
+<img width="300" alt="Seleccionar Especialidad" src="./PROTOTIPO_20VENTANAS/agendar%20cita.png" />
 Interfaz para elegir la especialidad médica o servicio al que desea acceder el paciente.
 
 ---
 
 ### 5. Seleccionar Doctor
-<img width="300" alt="Seleccionar Doctor" src="./PROTOTIPO_VENTANAS/agendar%20cita%20-%20escoger%20doctor.png" />  
+<img width="300" alt="Seleccionar Doctor" src="./PROTOTIPO_20VENTANAS/agendar%20cita%20-%20escoger%20doctor.png" />
 Pantalla que muestra la lista de doctores disponibles según la especialidad seleccionada.
 
 ---
 
 ### 6. Seleccionar Fecha y Hora
-<img width="300" alt="Seleccionar Fecha y Hora" src="./PROTOTIPO_VENTANAS/agendar%20cita%20-%20escoger%20fecha.png" />  
+<img width="300" alt="Seleccionar Fecha y Hora" src="./PROTOTIPO_20VENTANAS/agendar%20cita%20-%20escoger%20fecha.png" />
 Calendario para escoger la fecha y hora disponibles en la agenda del doctor seleccionado.
 
 ---
 
 ### 7. Confirmación de Cita
-<img width="300" alt="Confirmación de Cita" src="./PROTOTIPO_VENTANAS/agendar%20cita%20-%20confirmar%20info.png" />  
-Pantalla final que muestra los detalles de la cita (doctor, especialidad, fecha y hora) antes de confirmar.
+<img width="300" alt="Confirmación" src="./PROTOTIPO_20VENTANAS/agendar%20cita%20-%20confirmar%20info.png" />
+Pantalla final donde se muestra la información de la cita antes de confirmarla.
+
